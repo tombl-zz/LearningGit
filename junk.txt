@@ -1,4 +1,10 @@
 junk
+<<<<<<< HEAD
 and some more
 and more
 and more
+=======
+and more
+and some more
+and some more
+>>>>>>> b2
